@@ -22,11 +22,20 @@ However, it does not show the actual percentage of deaths to confirmed cases on 
 
 This dashboard shows the percentage of deaths to confirmed cases on a per-country basis, and the ability to view data in ascending or descending order.
 
+### No ads and tracking:
+
+This website does not show any advertisements, collect user info, store cookies, and so on.
+It's a completely stateless website.
+
 ## Have questions, issues, or feedback?
 
 Please create a **New issue** at the [Github repository](https://github.com/antony2025/covid-19-simple-dashboard/issues).
 
 If you like the dashboard, **Star** the repository.
+
+## Data source
+
+This website uses data from [World Health Organization](https://covid19.who.int/).
 
 ## Terms of Use:
 
